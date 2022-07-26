@@ -1,4 +1,5 @@
-# To-Do-List
+# To-Do-List 
+TechStack - HTML, JavaScript
 
 Time management is the need of the hour! List all your tasks for the day here and manage everything in hand effectively!
 
